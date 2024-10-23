@@ -3,17 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm JEAPI, I'm an IT student and a Software Developer 💻</div>  
+### <div align="center">I'm JEAPI, I'm a Student and a Software Developer 💻</div>  
   
 
 - 🔭 I’m currently working on my own Operating System  
   
 
-- 📑  I’m currently learning Dart and Rust   
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 📑  I’m currently learning Dart  
 
 <br/>  
 
